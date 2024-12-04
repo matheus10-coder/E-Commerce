@@ -12,7 +12,7 @@
 	<artifactId>ecommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ecommerce</name>
-	<description>This project is a Shipment Tracking System design where it utilize state pattern in order to best implement an elegant tracking and shipment system embbeded with our individual ecommerce platform. We will utilize many aspects of object oriented programming to make this code reusable, robust and professional</description>
+	<description>This project is a Shipment Tracking System design where it uses a state pattern to best implement an elegant tracking and shipment system embedded with our individual ecommerce platform. We will use many aspects of object-oriented programming to make this code reusable, robust and professional</description>
 	<url/>
 	<licenses>
 		<license/>

@@ -1,5 +1,5 @@
 # E-Commerce
-This project is an e-commerce based platform where I picked state pattern design in order to best implement an elegant tracking and shipment system. I will utilize many aspects of object oriented programming to make this code reusable, robust and professional
+This project is an e-commerce based platform where I picked state pattern design in order to best implement an elegant tracking and shipment system. I will utilize many aspects of object oriented programming to make this code reusable, robust and professional. My goal is to design and create an order management system.
 ## Shipment Tracking System
 ### Overview
   * The Shipment Tracking System is a Spring Boot application that demonstrates the use of the State Design  
